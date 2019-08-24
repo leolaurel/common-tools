@@ -6,3 +6,7 @@ kill-port
 
 maven-install
 # 该工具用于把一些本地Jar文件放入本地Maven仓库
+
+
+spring-boot-startup
+# 快速启动srping boot 
